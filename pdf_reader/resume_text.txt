@@ -1,0 +1,79 @@
+•    Cyber Security Technologies: EDR, XDR, DLP 
+•    Digital Forensics 
+•    Web Security 
+•    Security Frameworks & Compliance: ISO 27001, NIST CSF, GDPR, PCI-DSS, HIPAA 
+•    Ethical Hacking & Penetration Testing 
+•    Cryptography & Encryption 
+•    Security Tools & Techniques 
+•    Programming & Scripting: Python, Bash, JavaScript, PHP, C, C++, SQL 
+•    Operating Systems & System Administration 
+•    Networking Fundamentals & Security 
+TECHNICAL SKILLS  
+•    Phishing Email Analysis - Letsdefend 
+•    Web Attack Investigator - Letsdefend 
+•    Complete Junior Cyber Security Career Path exam - CISCO 
+•    Endpoint Security - CISCO 
+•    ISC2_CC_Online_SelfPaced_Training 
+COURSES & CERTIFICATIONS  
+ 
+G.C.E(O/L) 9A’s (Including Tamil & ICT)                                                                                                                               2017 
+G.C.E(A/L) - Physical Science Stream Com. Math: C Chemistry: C Physics: S                                                                  2021 
+G/ Dharmasoka College – Ambalangoda                                                                                                                            2012 - 2020 
+ 
+Sri Lanka Institute of Information Technology 
+B.Sc. (Hons) in Information Technology Specializing in Cyber Security                                                              Oct 2022 - Present 
+EDUCATION  
+ 
+world industry experience. 
+Eager to leverage technical expertise and analytical skills in an internship role to enhance organizational security and gain real-
+security compliance frameworks. Adept at identifying and mitigating risks through hands-on projects and academic training. 
+Motivated cybersecurity undergraduate with practical experience in penetration testing, vulnerability assessment, and 
+SUMMARY  
+ 
+Kalutara, Sri Lanka      |      +94715587560      |      yasindunayanajith2001@gmail.com      |      LinkedIn Profile 
+B.SC (HONS) IN INFORMATION TECHNOLOGY - CYBER SECURITY | SLIIT 
+CYBERSECURITY   INTERN 
+ 
+YASINDU NAYANAJITH
+----------------Page (0) Break----------------
+ 
+Email:  kanishka.y@sliit.lk  
+Email:  kavinga.y@sliit.lk 
+Telephone: +94 718007138  
+Telephone: +94 769045678  
+Senior Lecturer Faculty of Computing - SLIIT                                               Senior Lecturer Faculty of Computing - SLIIT   
+Mr. Kanishka Yapa                                                                                     Mr. Kavinga Yapa 
+REFERENCES  
+ 
+Metasploit                                                                     Netcat  
+Nmap                                                                              Nessus 
+Curl                                                                                 mmls, fls, icat  
+Feroxbuster, Gobuster, wfuzz, ffuf                            Binwalk  
+Wireshark                                                                      OpenSSL  
+BurpSuite, OWASP ZAP                                                Recon-ng 
+TOOLS USED  
+ 
+•    Bug Bounty Research and Reporting Vulnerabilities 
+•    Report on Quantum Computing's Impact on Cyber Security 
+•    Presentation on Evaluating Features of Various Operating Systems 
+•    Implement a code to practice foundation of algorithms using C language 
+•    Bug Bounty Report (Beginner Level) 
+•    Report on SHA-256 Comprehensive Testing and Performance Analysis with Python 
+•    Sample Penetration Testing Report 
+•    A Review of Penetration Testing Methodologies for Securing IoT and IoMT Systems 
+•    Report on Incident Response Plan 
+•    Report on Developing a Security Awareness and Training Program for ISO 27001:2022 Implementation 
+•    Prepare a toolkit for ISO 27001 standard 
+•    Database and Operating System Security Project and Report 
+PROJECTS  
+ 
+•    Ethical Mindset                                                                                   •    CISCO
+•    Self-Motivation                                                                                    •    LetsDefend 
+•    Stress Management                                                                           •    Portswigger 
+•    Critical Thinking                                                                                   •    HackTheBox 
+•    Hard Working                                                                                      •    TryHackMe 
+•    Teamwork                                                                                             •    OverTheWire 
+•    Communication Skills 
+SELF LEARNING 
+SOFT SKILLS                                                                                          
+----------------Page (1) Break----------------
